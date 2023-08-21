@@ -31,9 +31,6 @@
 [submodule "AddOns/Float"]
 	path = AddOns/Float
 	url = https://github.com/SanjoSolutions/LuaFloat.git
-[submodule "AddOns/RecommendedSpellCaster"]
-	path = AddOns/RecommendedSpellCaster
-	url = https://github.com/AkiKonani/RecommendedSpellCaster.git
 [submodule "AddOns/CommunityFeastHandler"]
 	path = AddOns/CommunityFeastHandler
 	url = https://github.com/SanjoSolutions/CommunityFeastHandler.git

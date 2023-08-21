@@ -61,9 +61,6 @@
 [submodule "AddOns/Serialization"]
 	path = AddOns/Serialization
 	url = https://github.com/SanjoSolutions/LuaSerialization.git
-[submodule "AddOns/SpellCasting"]
-	path = AddOns/SpellCasting
-	url = https://github.com/SanjoSolutions/LuaSpellCasting.git
 [submodule "AddOns/Stoppable"]
 	path = AddOns/Stoppable
 	url = https://github.com/SanjoSolutions/LuaStoppable.git

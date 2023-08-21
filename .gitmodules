@@ -1,72 +1,96 @@
 [submodule "AddOns/Array"]
 	path = AddOns/Array
 	url = https://github.com/SanjoSolutions/LuaArray.git
+        branch = master
 [submodule "AddOns/Object"]
 	path = AddOns/Object
 	url = https://github.com/SanjoSolutions/LuaObject.git
+        branch = master
 [submodule "AddOns/Set"]
 	path = AddOns/Set
 	url = https://github.com/SanjoSolutions/LuaSet.git
+        branch = master
 [submodule "AddOns/Math"]
 	path = AddOns/Math
 	url = https://github.com/SanjoSolutions/LuaMath.git
+        branch = master
 [submodule "AddOns/Events"]
 	path = AddOns/Events
 	url = https://github.com/SanjoSolutions/LuaEvents.git
+        branch = master
 [submodule "AddOns/Coroutine"]
 	path = AddOns/Coroutine
 	url = https://github.com/SanjoSolutions/LuaCoroutine.git
+        branch = master
 [submodule "AddOns/Function"]
 	path = AddOns/Function
 	url = https://github.com/SanjoSolutions/LuaFunction.git
+        branch = master
 [submodule "AddOns/Boolean"]
 	path = AddOns/Boolean
 	url = https://github.com/SanjoSolutions/LuaBoolean.git
+        branch = master
 [submodule "AddOns/Tooltips"]
 	path = AddOns/Tooltips
 	url = https://github.com/SanjoSolutions/Tooltips.git
+        branch = master
 [submodule "AddOns/String"]
 	path = AddOns/String
 	url = https://github.com/SanjoSolutions/LuaString.git
+        branch = master
 [submodule "AddOns/Float"]
 	path = AddOns/Float
 	url = https://github.com/SanjoSolutions/LuaFloat.git
+        branch = master
 [submodule "AddOns/CommunityFeastHandler"]
 	path = AddOns/CommunityFeastHandler
 	url = https://github.com/SanjoSolutions/CommunityFeastHandler.git
+        branch = master
 [submodule "createAddOn/createAddOn"]
 	path = createAddOn/createAddOn
 	url = https://github.com/SanjoSolutions/createAddOn.git
+        branch = master
 [submodule "AddOns/Bags"]
 	path = AddOns/Bags
 	url = https://github.com/SanjoSolutions/Bags.git
+        branch = master
 [submodule "AddOns/Caching"]
 	path = AddOns/Caching
 	url = https://github.com/SanjoSolutions/LuaCaching.git
+        branch = master
 [submodule "AddOns/Conditionals"]
 	path = AddOns/Conditionals
 	url = https://github.com/SanjoSolutions/LuaConditionals.git
+        branch = master
 [submodule "AddOns/Hook"]
 	path = AddOns/Hook
 	url = https://github.com/SanjoSolutions/LuaHook.git
+        branch = master
 [submodule "AddOns/Hooking"]
 	path = AddOns/Hooking
 	url = https://github.com/SanjoSolutions/LuaHooking.git
+        branch = master
 [submodule "AddOns/Resolvable"]
 	path = AddOns/Resolvable
 	url = https://github.com/SanjoSolutions/LuaResolvable.git
+        branch = master
 [submodule "AddOns/Scheduling"]
 	path = AddOns/Scheduling
 	url = https://github.com/SanjoSolutions/LuaScheduling.git
+        branch = master
 [submodule "AddOns/Serialization"]
 	path = AddOns/Serialization
 	url = https://github.com/SanjoSolutions/LuaSerialization.git
+        branch = master
 [submodule "AddOns/Stoppable"]
 	path = AddOns/Stoppable
 	url = https://github.com/SanjoSolutions/LuaStoppable.git
+        branch = master
 [submodule "AddOns/Yielder"]
 	path = AddOns/Yielder
 	url = https://github.com/SanjoSolutions/LuaYielder.git
+        branch = master
 [submodule "AddOns/BinaryHeap/libs/BinaryHeap"]
 	path = AddOns/BinaryHeap/libs/BinaryHeap
 	url = https://github.com/AkiKonani/BinaryHeap.git
+        branch = master

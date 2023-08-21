@@ -6,6 +6,10 @@
 	path = AddOns/Object
 	url = https://github.com/SanjoSolutions/LuaObject.git
         branch = master
+[submodule "AddOns/Library"]
+	path = AddOns/Library
+	url = https://github.com/SanjoSolutions/Library.git
+        branch = master
 [submodule "AddOns/Set"]
 	path = AddOns/Set
 	url = https://github.com/SanjoSolutions/LuaSet.git
